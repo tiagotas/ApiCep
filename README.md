@@ -14,12 +14,9 @@
 
             Consumir uma API Caseira
 
-1º Passo: faça o download (ou clone) da API Exemplo
-https://github.com/tiagotas/ApiCep
-
-2º Passo: Importe o Banco de Dados
-3º Passo: Abra a pasta da API no VS Code
-4º Passo: Abra o terminal
-5º Passo: Comando: php -S localhost:8000
-6º Passo: Teste no navegador com:
-http://localhost:8000/endereco/by-cep?cep=17210580
+- 1º Passo: faça o download (ou clone) da API Exemplo: https://github.com/tiagotas/ApiCep
+- 2º Passo: Importe o Banco de Dados
+- 3º Passo: Abra a pasta da API no VS Code
+- 4º Passo: Abra o terminal
+- 5º Passo: Comando: php -S localhost:8000
+- 6º Passo: Teste no navegador com: http://localhost:8000/endereco/by-cep?cep=17210580
